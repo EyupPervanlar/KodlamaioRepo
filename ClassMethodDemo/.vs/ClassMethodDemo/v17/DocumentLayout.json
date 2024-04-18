@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\ClassMethodDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B31A6B86-D88A-42AD-8F7C-BA42E35295DC}|ClassMethodDemo\\ClassMethodDemo.csproj|c:\\users\\sago\\documents\\github\\repository\\classmethoddemo\\classmethoddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31A6B86-D88A-42AD-8F7C-BA42E35295DC}|ClassMethodDemo\\ClassMethodDemo.csproj|solutionrelative:classmethoddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31A6B86-D88A-42AD-8F7C-BA42E35295DC}|ClassMethodDemo\\ClassMethodDemo.csproj|C:\\Users\\Sago\\Documents\\GitHub\\Repository\\ClassMethodDemo\\classmethoddemo\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31A6B86-D88A-42AD-8F7C-BA42E35295DC}|ClassMethodDemo\\ClassMethodDemo.csproj|solutionrelative:classmethoddemo\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31A6B86-D88A-42AD-8F7C-BA42E35295DC}|ClassMethodDemo\\ClassMethodDemo.csproj|C:\\Users\\Sago\\Documents\\GitHub\\Repository\\ClassMethodDemo\\classmethoddemo\\icostumerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31A6B86-D88A-42AD-8F7C-BA42E35295DC}|ClassMethodDemo\\ClassMethodDemo.csproj|solutionrelative:classmethoddemo\\icostumerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31A6B86-D88A-42AD-8F7C-BA42E35295DC}|ClassMethodDemo\\ClassMethodDemo.csproj|C:\\Users\\Sago\\Documents\\GitHub\\Repository\\ClassMethodDemo\\classmethoddemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31A6B86-D88A-42AD-8F7C-BA42E35295DC}|ClassMethodDemo\\ClassMethodDemo.csproj|solutionrelative:classmethoddemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICostumerDal.cs",
+              "DocumentMoniker": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\ClassMethodDemo\\ClassMethodDemo\\ICostumerDal.cs",
+              "RelativeDocumentMoniker": "ClassMethodDemo\\ICostumerDal.cs",
+              "ToolTip": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\ClassMethodDemo\\ClassMethodDemo\\ICostumerDal.cs",
+              "RelativeToolTip": "ClassMethodDemo\\ICostumerDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:31:03.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\ClassMethodDemo\\ClassMethodDemo\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "ClassMethodDemo\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\ClassMethodDemo\\ClassMethodDemo\\CustomerManager.cs",
+              "RelativeToolTip": "ClassMethodDemo\\CustomerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:30:11.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\ClassMethodDemo\\ClassMethodDemo\\Customer.cs",
+              "RelativeDocumentMoniker": "ClassMethodDemo\\Customer.cs",
+              "ToolTip": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\ClassMethodDemo\\ClassMethodDemo\\Customer.cs",
+              "RelativeToolTip": "ClassMethodDemo\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:29:16.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\ClassMethodDemo\\ClassMethodDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ClassMethodDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Sago\\Documents\\GitHub\\Repository\\ClassMethodDemo\\ClassMethodDemo\\Program.cs",
+              "RelativeToolTip": "ClassMethodDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:28:57.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

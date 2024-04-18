@@ -1,0 +1,7 @@
+C:\Users\Sago\Documents\GitHub\Repository\ClassMethodDemo\ClassMethodDemo\bin\Debug\ClassMethodDemo.exe.config
+C:\Users\Sago\Documents\GitHub\Repository\ClassMethodDemo\ClassMethodDemo\bin\Debug\ClassMethodDemo.exe
+C:\Users\Sago\Documents\GitHub\Repository\ClassMethodDemo\ClassMethodDemo\bin\Debug\ClassMethodDemo.pdb
+C:\Users\Sago\Documents\GitHub\Repository\ClassMethodDemo\ClassMethodDemo\obj\Debug\ClassMethodDemo.csproj.AssemblyReference.cache
+C:\Users\Sago\Documents\GitHub\Repository\ClassMethodDemo\ClassMethodDemo\obj\Debug\ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sago\Documents\GitHub\Repository\ClassMethodDemo\ClassMethodDemo\obj\Debug\ClassMethodDemo.exe
+C:\Users\Sago\Documents\GitHub\Repository\ClassMethodDemo\ClassMethodDemo\obj\Debug\ClassMethodDemo.pdb
